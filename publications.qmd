@@ -1,0 +1,68 @@
+---
+title: "Publications"
+---
+
+## First author articles
+
+**Martins, G. L.**, Freitas, A. S., ... & Tsai, S. M.. (2026).
+Agroforestry development drives a progressive shift from physicochemical to microbially mediated organic matter cycling in tropical soils.
+*Journal of Environmental Management*, 419, 1–12.
+[DOI](https://doi.org/10.1016/j.jenvman.2026.131266) · [PDF](files/martins2026_JEMA.pdf)
+
+**Martins, G. L.**, in t' Zandt, D., ... & van der Putten, W. H. (2026).
+Connectivity and Age of Restored Atlantic Forest Fragments Drives Composition and Functionality of the Fungal Community in the Leaf Litter Layer.
+*Molecular Ecology*, 6(e70325), 1–13.
+[DOI](https://doi.org/10.1111/mec.70325) . [PDF](files/martins2026_MOLECO.pdf)
+
+**Martins, G. L.**, Monteiro, G. G., ... & Tsai, S. M. (2026).
+Land-use intensification reshapes microbial phosphorus cycling, organic matter composition, and phosphorus fractions in Amazonian soils.
+*ISME Communications*, 6(1), 1-14.
+[DOI](https://doi.org/10.1093/ismeco/ycag027) . [PDF](files/martins2026_ISMEComm.pdf)
+
+**Martins, G. L.**, Pellegrinetti, T. A., ... & Regitano, J. B. (2024).
+Differential effects of fresh and composted organic wastes on soil bacterial community and maize growth.
+*Applied Soil Ecology*, 204(105715), 1-11.
+[DOI](https://doi.org/10.1016/j.apsoil.2024.105715) . [PDF](files/martins2024_APS.pdf)
+
+**Martins, G. L.**, de Souza, A. J., ... & Regitano, J. B. (2023).
+The role of land use, management, and microbial diversity depletion on glyphosate biodegradation in tropical soils.
+*Environmental Research*, 231(116178), 1-11.
+[DOI](https://doi.org/10.1016/j.envres.2023.116178) . [PDF](files/martins2023_ENVR.pdf)
+
+**Martins, G. L.**, de Souza, A. J., ... & Regitano, J. B. (2023).
+Physicochemical and bacterial changes during composting of vegetable and animal-derived agro-industrial wastes.
+*Bioresource Technology*, 376(128842), 1-9.
+[DOI](https://doi.org/10.1016/j.biortech.2023.128842) . [PDF](files/martins2023_BITE.pdf)
+
+
+## Co-author articles
+
+Muchalak, F., Navarrete, A. A., ... **Martins, G. L.** ... & Tsai, S. M. (2026).
+Context-dependent plant responses to soil conditioning and irradiation across contrasting land-use legacies in an Atlantic Forest–Cerrado ecotone.
+*Rhizosphere*, 40(101529), 1-14.
+[DOI](https://doi.org/10.1016/j.rhisph.2026.101529)
+
+Freitas, A. S., **Martins, G. L.**, ... & Tsai, S. M. (2026).
+Boosting tree growth in the Amazon rainforest using Amazonian Dark Earths.
+*BMC Ecology and Evolution*, 26(15), 1-12.
+[DOI](https://doi.org/10.1186/s12862-026-02495-y)
+
+Bieluczyk, W, Duarte, M. P., **Martins, G. L.**, ... & Tsai, S. M. (2025).
+Slash-and-burn agriculture disrupts the carbon storage potential and ecosystem multifunctionality of Amazon's secondary forests.
+*Agriculture, Ecosystem & Environment*, 381(109413), 1-15.
+[DOI](https://doi.org/10.1016/j.agee.2024.109413)
+
+Freitas, A. S., Zagatto, L. F. G., ... **Martins, G. L.**, ... & Tsai, S. M. (2025).
+Harnessing the synergy of Urochloa brizantha and Amazonian Dark Earth microbiomes for enhanced pasture recovery
+*BMC Microbiology*, 25(27), 1-11.
+[DOI](https://doi.org/10.1186/s12866-024-03741-3)
+
+Freitas, A. s., Carlos, F. S., **Martins, G. L.**, ... & Roesch, L. F. W. (2024).
+Bacterial Resilience and Community Shifts Under 11 Draining-Flooding Cycles in Rice Soils.
+*Microbial Ecology*, 87(149), 1-10.
+[DOI](https://doi.org/10.1007/s00248-024-02468-y)
+
+Rodrigues, M. M., Viana, D. G., **Martins, G. L.**, ... & Regitano, J. B. (2023).
+Use of a Concerning Sewage Sludge in the Manufacture of Organomineral Fertilizers: Agronomical Implications and Sustainable Disposal.
+*Journal of Soil Science and Plant Nutrition*, 23, 2798-2809.
+[DOI](https://doi.org/10.1007/s42729-023-01235-1)

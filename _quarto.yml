@@ -3,13 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "Guilherme Martins"
+  title: "Guilherme Lucio Martins"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
+      - href: publications.qmd
+        text: Publications
     right:
       - icon: github
         href: https://github.com/guilhermeluciomartins
