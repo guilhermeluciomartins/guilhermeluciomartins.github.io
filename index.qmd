@@ -1,7 +1,40 @@
 ---
-title: "Guilherme Martins"
+title: "Guilherme Lucio Martins"
+about:
+  template: trestles
+  image: profile.jpg
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/guilhermeluciomartins
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/guilherme-lucio-martins/
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/MartinsGL_
+    - icon: envelope
+      text: Email
+      href: mailto:guilhermelucio@usp.br
 ---
 
-I work with statistical analysis and quantitative methods, mostly in R.
+I am a soil scientist working at the interface of microbial ecology and biogeochemistry. I'm always eager to discuss sustainable agriculture and drink a cup of coffee! ☕
 
-This site is where I collect my work, projects and notes.
+## Interests
+
+- Molecular biology
+- Soil organic matter dynamics
+- Bioinformatics
+- Statistical modelling
+- Data visualization
+
+## Education
+
+University of São Paulo | Piracicaba, Brazil  
+
+PhD in Agricultural Microbiology | 2022 - 2026
+
+MSc in Agricultural Microbiology | 2019 – 2021
+
+BSc in Agronomy | 2011 - 2017
