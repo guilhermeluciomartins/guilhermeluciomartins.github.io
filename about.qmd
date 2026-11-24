@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+## Background
+
+A few paragraphs about yourself here.
+
+## Skills
+
+- Statistical analysis
+- Quantitative methods
+- R

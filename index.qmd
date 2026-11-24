@@ -1,0 +1,7 @@
+---
+title: "Guilherme Martins"
+---
+
+I work with statistical analysis and quantitative methods, mostly in R.
+
+This site is where I collect my work, projects and notes.

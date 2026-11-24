@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Guilherme Martins",
+    "section": "",
+    "text": "I work with statistical analysis and quantitative methods, mostly in R.\nThis site is where I collect my work, projects and notes."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "A few paragraphs about yourself here."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "",
+    "text": "A few paragraphs about yourself here."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\n\nStatistical analysis\nQuantitative methods\nR"
+  }
+]
