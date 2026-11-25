@@ -12,6 +12,8 @@ website:
         text: About
       - href: publications.qmd
         text: Publications
+      - href: notes.qmd
+        text: Research Notes
     right:
       - icon: github
         href: https://github.com/guilhermeluciomartins
