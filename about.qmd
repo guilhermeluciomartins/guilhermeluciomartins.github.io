@@ -1,10 +1,10 @@
 ---
-title: "About"
+title: "About me"
 ---
 
 ## Background
 
-A few paragraphs about yourself here.
+I am an agronomist and soil scientist who works at the intersection of microbial ecology and biogeochemistry. I’m always eager to discuss sustainable agriculture over a cup of coffee! ☕
 
 ## Skills
 

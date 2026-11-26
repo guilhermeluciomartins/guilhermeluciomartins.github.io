@@ -17,24 +17,13 @@ about:
     - icon: envelope
       text: Email
       href: mailto:guilhermelucio@usp.br
+    - icon: r square
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Guilherme-Martins-23?ev=hdr_xprf
 ---
 
-I am a soil scientist working at the interface of microbial ecology and biogeochemistry. I'm always eager to discuss sustainable agriculture and drink a cup of coffee! ☕
+Hi!
 
-## Interests
+Welcome to my professional website, where I share some thoughts about myself and my work. Please check out the tabs to find out more about me, my skills and my publications, as well as some research notes on the studies I have developed and/or participated in as a collaborator.
 
-- Molecular biology
-- Soil organic matter dynamics
-- Bioinformatics
-- Statistical modelling
-- Data visualization
-
-## Education
-
-University of São Paulo | Piracicaba, Brazil  
-
-PhD in Agricultural Microbiology | 2022 - 2026
-
-MSc in Agricultural Microbiology | 2019 – 2021
-
-BSc in Agronomy | 2011 - 2017
+Feel free to contact me via any of the available platforms, such as email, LinkedIn, X, or ResearchGate.
