@@ -4,7 +4,11 @@ title: "About me and Skills"
 
 ## Background
 
-I am an agronomist and soil scientist who works at the intersection of microbial ecology and biogeochemistry. I’m always eager to discuss sustainable agriculture over a cup of coffee! ☕
+I am an agronomist and soil scientist who works at the intersection of microbial ecology and soil biogeochemistry. I’m always eager to discuss sustainable agriculture over a cup of coffee! ☕
+
+## CV
+
+You can download my CV [here](files/CV_Guilherme_Lucio_Martins_2026) with the description of my education, working experience, and publications.
 
 ## Skills
 
@@ -19,7 +23,7 @@ chemistry, molecular microbial ecology, bioinformatics, and applied statistics.
 - Soil phosphorus fractionation (Hedley et al., 1982): sequential extraction
   separating labile, moderately labile, organic, non-labile and residual P pools.
 - Soil carbon fractionation into particulate organic matter (POM) and
-  mineral-associated organic matter (MAOM) following Cambardella & Elliott.
+  mineral-associated organic matter (MAOM) following Cambardella & Elliott (1992).
 - Total C and N and their stable isotopes (δ¹³C, δ¹⁵N) in soil and plant
   samples.
 
@@ -32,7 +36,7 @@ chemistry, molecular microbial ecology, bioinformatics, and applied statistics.
   classification of DOM using van Krevelen diagrams.
 
 ### Organic residues and fertilizers
-- Composting of organic residues and wastes, including animal manures and
+- Composting of organic residues, including animal manures and
   agro-industrial by-products.
 - Characterization of organic fertilizers following USEPA methods 3051A and
   6010: pH; total organic carbon by dry combustion and wet oxidation
