@@ -8,6 +8,94 @@ I am an agronomist and soil scientist who works at the intersection of microbial
 
 ## Skills
 
-- Statistical analysis
-- Quantitative methods
-- R
+Throughout my academic career I have taken part in a range of studies that
+shaped a broad methodological portfolio, spanning soil and environmental
+chemistry, molecular microbial ecology, bioinformatics, and applied statistics.
+
+### Soil chemistry and fertility
+- Soil fertility analysis: plant-available macro- and micronutrients by
+  ion-exchange resin and DTPA extraction (van Raij et al., 1997; EMBRAPA
+  methods).
+- Soil phosphorus fractionation (Hedley et al., 1982): sequential extraction
+  separating labile, moderately labile, organic, non-labile and residual P pools.
+- Soil carbon fractionation into particulate organic matter (POM) and
+  mineral-associated organic matter (MAOM) following Cambardella & Elliott.
+- Total C and N and their stable isotopes (δ¹³C, δ¹⁵N) in soil and plant
+  samples.
+
+### Dissolved organic matter
+- Extraction and quantification of dissolved organic carbon (DOC).
+- Dissolved organic matter (DOM) isolation by solid-phase extraction (PPL
+  cartridges) and molecular characterization by high-resolution mass
+  spectrometry.
+- Molecular formula assignment with the MFAssignR package and compositional
+  classification of DOM using van Krevelen diagrams.
+
+### Organic residues and fertilizers
+- Composting of organic residues and wastes, including animal manures and
+  agro-industrial by-products.
+- Characterization of organic fertilizers following USEPA methods 3051A and
+  6010: pH; total organic carbon by dry combustion and wet oxidation
+  (Walkley–Black); total nitrogen by Kjeldahl digestion; labile macronutrients
+  (P, K, Ca, Mg, S) and micronutrients (Fe, Mn, Zn, Cu, B) by calcium-acetate
+  and microwave-assisted digestion.
+
+### Plant analyses
+- Total carbon and nitrogen in plant tissue by dry combustion.
+- Nitric–perchloric acid digestion of plant tissue for elemental
+  quantification.
+
+### Soil biology and microbial ecology (bench)
+- DNA extraction from soil, litter, plant tissue and organic residues.
+- Phospholipid fatty acid (PLFA) extraction and assignment to microbial
+  functional groups.
+- Soil enzyme activity assays: β-glucosidase (Eivazi & Tabatabai, 1988),
+  acid phosphatase and arylsulfatase (Tabatabai & Bremner, 1969, 1970).
+- Microcosm incubation experiments on pesticide mineralization using a
+  dilution-to-extinction approach with ¹⁴C-labelled molecules.
+
+### Bioinformatics
+- Amplicon sequencing analysis of the 16S rRNA gene and the fungal ITS region
+  (DADA2 pipeline).
+- Functional prediction from amplicon data with PICRUSt2.
+- Fungal functional guild assignment with FUNGuild and FungalTraits.
+- Shotgun metagenomics: quality control (FastQC, Trimmomatic), read merging
+  (PEAR), contig assembly (MEGAHIT), ORF prediction (Prodigal), taxonomic
+  annotation (Kraken2) and functional annotation against biogeochemical-cycle
+  databases, including PCycDB (phosphorus) and dbCAN (carbohydrate-active
+  enzymes).
+
+### Biostatistics and data analysis
+- Univariate analysis: ANOVA, Pearson and Spearman correlation.
+- Multivariate and community analysis: PERMANOVA, ordination (PCoA, NMDS,
+  RDA), alpha-diversity indices and co-occurrence network analysis.
+- Differential abundance analysis: ALDEx2, LinDA and MaAsLin2.
+- Modelling: linear mixed-effects models (LMM), random forest for regression
+  and classification, structural equation modelling (piecewiseSEM, lavaan) and
+  partial least squares path modelling (PLS-PM).
+
+### Experimental design and field work
+- Greenhouse experiments with maize, soybean and tree seedlings.
+- Experimental design and analysis for completely randomized and randomized
+  complete block designs.
+- Planning and execution of field sampling campaigns for soil, litter and
+  plant material.
+
+### Analytical instrumentation
+- **ICP-OES** — multi-element quantification in digested organic fertilizers
+  and residues.
+- **Atomic absorption spectrophotometry (AAS)** — macro- and micronutrients in
+  soil extracts and digested plant tissue.
+- **EA-IRMS (Delta Plus)** — total C and N with stable isotope ratios
+  (δ¹³C, δ¹⁵N) in soil and plant samples.
+- **LECO elemental analyzer** — total C and N by dry combustion.
+- **High-resolution mass spectrometry (Orbitrap Elite)** — molecular-level
+  characterization of dissolved organic matter.
+- **GC-FID and GC-MS** — PLFA quantification and peak identification.
+- **TOC-V<sub>CPN</sub> (Shimadzu)** — dissolved and total organic carbon.
+- **Liquid scintillation spectroscopy** — ¹⁴CO₂ quantification in
+  radioisotope-based mineralization assays.
+- **Microwave-assisted digestion systems** — sample preparation under USEPA
+  3051A.
+- **UV-Vis spectrophotometry** — colorimetric endpoints in soil enzyme assays
+  and phosphorus fractionation.

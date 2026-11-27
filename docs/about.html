@@ -135,7 +135,18 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background">Background</a></li>
-  <li><a href="#skills" id="toc-skills" class="nav-link" data-scroll-target="#skills">Skills</a></li>
+  <li><a href="#skills" id="toc-skills" class="nav-link" data-scroll-target="#skills">Skills</a>
+  <ul class="collapse">
+  <li><a href="#soil-chemistry-and-fertility" id="toc-soil-chemistry-and-fertility" class="nav-link" data-scroll-target="#soil-chemistry-and-fertility">Soil chemistry and fertility</a></li>
+  <li><a href="#dissolved-organic-matter" id="toc-dissolved-organic-matter" class="nav-link" data-scroll-target="#dissolved-organic-matter">Dissolved organic matter</a></li>
+  <li><a href="#organic-residues-and-fertilizers" id="toc-organic-residues-and-fertilizers" class="nav-link" data-scroll-target="#organic-residues-and-fertilizers">Organic residues and fertilizers</a></li>
+  <li><a href="#plant-analyses" id="toc-plant-analyses" class="nav-link" data-scroll-target="#plant-analyses">Plant analyses</a></li>
+  <li><a href="#soil-biology-and-microbial-ecology-bench" id="toc-soil-biology-and-microbial-ecology-bench" class="nav-link" data-scroll-target="#soil-biology-and-microbial-ecology-bench">Soil biology and microbial ecology (bench)</a></li>
+  <li><a href="#bioinformatics" id="toc-bioinformatics" class="nav-link" data-scroll-target="#bioinformatics">Bioinformatics</a></li>
+  <li><a href="#biostatistics-and-data-analysis" id="toc-biostatistics-and-data-analysis" class="nav-link" data-scroll-target="#biostatistics-and-data-analysis">Biostatistics and data analysis</a></li>
+  <li><a href="#experimental-design-and-field-work" id="toc-experimental-design-and-field-work" class="nav-link" data-scroll-target="#experimental-design-and-field-work">Experimental design and field work</a></li>
+  <li><a href="#analytical-instrumentation" id="toc-analytical-instrumentation" class="nav-link" data-scroll-target="#analytical-instrumentation">Analytical instrumentation</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -167,13 +178,90 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="skills" class="level2">
 <h2 class="anchored" data-anchor-id="skills">Skills</h2>
+<p>Throughout my academic career I have taken part in a range of studies that shaped a broad methodological portfolio, spanning soil and environmental chemistry, molecular microbial ecology, bioinformatics, and applied statistics.</p>
+<section id="soil-chemistry-and-fertility" class="level3">
+<h3 class="anchored" data-anchor-id="soil-chemistry-and-fertility">Soil chemistry and fertility</h3>
 <ul>
-<li>Statistical analysis</li>
-<li>Quantitative methods</li>
-<li>R</li>
+<li>Soil fertility analysis: plant-available macro- and micronutrients by ion-exchange resin and DTPA extraction (van Raij et al., 1997; EMBRAPA methods).</li>
+<li>Soil phosphorus fractionation (Hedley et al., 1982): sequential extraction separating labile, moderately labile, organic, non-labile and residual P pools.</li>
+<li>Soil carbon fractionation into particulate organic matter (POM) and mineral-associated organic matter (MAOM) following Cambardella &amp; Elliott.</li>
+<li>Total C and N and their stable isotopes (δ¹³C, δ¹⁵N) in soil and plant samples.</li>
+</ul>
+</section>
+<section id="dissolved-organic-matter" class="level3">
+<h3 class="anchored" data-anchor-id="dissolved-organic-matter">Dissolved organic matter</h3>
+<ul>
+<li>Extraction and quantification of dissolved organic carbon (DOC).</li>
+<li>Dissolved organic matter (DOM) isolation by solid-phase extraction (PPL cartridges) and molecular characterization by high-resolution mass spectrometry.</li>
+<li>Molecular formula assignment with the MFAssignR package and compositional classification of DOM using van Krevelen diagrams.</li>
+</ul>
+</section>
+<section id="organic-residues-and-fertilizers" class="level3">
+<h3 class="anchored" data-anchor-id="organic-residues-and-fertilizers">Organic residues and fertilizers</h3>
+<ul>
+<li>Composting of organic residues and wastes, including animal manures and agro-industrial by-products.</li>
+<li>Characterization of organic fertilizers following USEPA methods 3051A and 6010: pH; total organic carbon by dry combustion and wet oxidation (Walkley–Black); total nitrogen by Kjeldahl digestion; labile macronutrients (P, K, Ca, Mg, S) and micronutrients (Fe, Mn, Zn, Cu, B) by calcium-acetate and microwave-assisted digestion.</li>
+</ul>
+</section>
+<section id="plant-analyses" class="level3">
+<h3 class="anchored" data-anchor-id="plant-analyses">Plant analyses</h3>
+<ul>
+<li>Total carbon and nitrogen in plant tissue by dry combustion.</li>
+<li>Nitric–perchloric acid digestion of plant tissue for elemental quantification.</li>
+</ul>
+</section>
+<section id="soil-biology-and-microbial-ecology-bench" class="level3">
+<h3 class="anchored" data-anchor-id="soil-biology-and-microbial-ecology-bench">Soil biology and microbial ecology (bench)</h3>
+<ul>
+<li>DNA extraction from soil, litter, plant tissue and organic residues.</li>
+<li>Phospholipid fatty acid (PLFA) extraction and assignment to microbial functional groups.</li>
+<li>Soil enzyme activity assays: β-glucosidase (Eivazi &amp; Tabatabai, 1988), acid phosphatase and arylsulfatase (Tabatabai &amp; Bremner, 1969, 1970).</li>
+<li>Microcosm incubation experiments on pesticide mineralization using a dilution-to-extinction approach with ¹⁴C-labelled molecules.</li>
+</ul>
+</section>
+<section id="bioinformatics" class="level3">
+<h3 class="anchored" data-anchor-id="bioinformatics">Bioinformatics</h3>
+<ul>
+<li>Amplicon sequencing analysis of the 16S rRNA gene and the fungal ITS region (DADA2 pipeline).</li>
+<li>Functional prediction from amplicon data with PICRUSt2.</li>
+<li>Fungal functional guild assignment with FUNGuild and FungalTraits.</li>
+<li>Shotgun metagenomics: quality control (FastQC, Trimmomatic), read merging (PEAR), contig assembly (MEGAHIT), ORF prediction (Prodigal), taxonomic annotation (Kraken2) and functional annotation against biogeochemical-cycle databases, including PCycDB (phosphorus) and dbCAN (carbohydrate-active enzymes).</li>
+</ul>
+</section>
+<section id="biostatistics-and-data-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="biostatistics-and-data-analysis">Biostatistics and data analysis</h3>
+<ul>
+<li>Univariate analysis: ANOVA, Pearson and Spearman correlation.</li>
+<li>Multivariate and community analysis: PERMANOVA, ordination (PCoA, NMDS, RDA), alpha-diversity indices and co-occurrence network analysis.</li>
+<li>Differential abundance analysis: ALDEx2, LinDA and MaAsLin2.</li>
+<li>Modelling: linear mixed-effects models (LMM), random forest for regression and classification, structural equation modelling (piecewiseSEM, lavaan) and partial least squares path modelling (PLS-PM).</li>
+</ul>
+</section>
+<section id="experimental-design-and-field-work" class="level3">
+<h3 class="anchored" data-anchor-id="experimental-design-and-field-work">Experimental design and field work</h3>
+<ul>
+<li>Greenhouse experiments with maize, soybean and tree seedlings.</li>
+<li>Experimental design and analysis for completely randomized and randomized complete block designs.</li>
+<li>Planning and execution of field sampling campaigns for soil, litter and plant material.</li>
+</ul>
+</section>
+<section id="analytical-instrumentation" class="level3">
+<h3 class="anchored" data-anchor-id="analytical-instrumentation">Analytical instrumentation</h3>
+<ul>
+<li><strong>ICP-OES</strong> — multi-element quantification in digested organic fertilizers and residues.</li>
+<li><strong>Atomic absorption spectrophotometry (AAS)</strong> — macro- and micronutrients in soil extracts and digested plant tissue.</li>
+<li><strong>EA-IRMS (Delta Plus)</strong> — total C and N with stable isotope ratios (δ¹³C, δ¹⁵N) in soil and plant samples.</li>
+<li><strong>LECO elemental analyzer</strong> — total C and N by dry combustion.</li>
+<li><strong>High-resolution mass spectrometry (Orbitrap Elite)</strong> — molecular-level characterization of dissolved organic matter.</li>
+<li><strong>GC-FID and GC-MS</strong> — PLFA quantification and peak identification.</li>
+<li><strong>TOC-V<sub>CPN</sub> (Shimadzu)</strong> — dissolved and total organic carbon.</li>
+<li><strong>Liquid scintillation spectroscopy</strong> — ¹⁴CO₂ quantification in radioisotope-based mineralization assays.</li>
+<li><strong>Microwave-assisted digestion systems</strong> — sample preparation under USEPA 3051A.</li>
+<li><strong>UV-Vis spectrophotometry</strong> — colorimetric endpoints in soil enzyme assays and phosphorus fractionation.</li>
 </ul>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
